@@ -27,3 +27,6 @@ The provision profile is under in the folder
 for example in my machine, the provision profile files are under /Users/steve/Library/MobileDevice/Provisioning Profiles
 In the mac, the Jenkins will be in /Users/Shared/Jenkins, create the following folder:
 /Users/Shared/Jenkins/Library/MobileDevice/Provisioning Profile,  then copy the .mobileprovision file to this folder.
+
+
+http://code-dojo.blogspot.co.uk/2012/09/fix-ios-code-signing-issue-when-using.html
